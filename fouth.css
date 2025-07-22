@@ -1,0 +1,179 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style:none;
+    text-decoration: none;
+}
+
+/* nav */
+nav ul {
+    display:flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    border-bottom: 2px solid #f2f2f2;
+}
+
+.home{
+    margin-left: 30%;
+}
+
+#facebook{
+    margin-left: 20%;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: blue;
+    border-bottom: 1px solid black;
+}
+
+.contact h1{
+    font-size: 3em;
+    font-weight: bolder;
+    margin-top:-1em;
+}
+.contact button{
+    background-color: black;
+    color: #fff;
+    padding:20px 7%;
+    border-radius: 20px;
+}
+form{
+    margin-top: 10%;
+}
+.us{
+    display: flex;
+    gap: 5em;
+    justify-content: center;
+    margin: 6% 4%;
+}
+.img{
+    background: linear-gradient(white,  hsl(190, 92%, 95%) );
+    border-radius: 0 0 20px 20px;
+    height: 100%;
+    margin-top: 5%;
+}
+ 
+.contact form{
+    width: 70%;
+     display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+ form  input,select{
+    width: 26em;
+    display: block;
+    padding: 1em;
+    border-radius: 10px;
+    border: none;
+    outline: 2px solid lightgray;
+    opacity: 0.5;
+    margin-top: 20px;
+
+}
+form textarea{
+    display: block;
+    border-radius: 20px;
+    padding: 20px;
+    border: none;
+    outline:2px solid lightgray;
+    opacity: 0.5;
+    margin-top: 20px;
+  
+} 
+
+.deli{
+    text-align: center;
+    margin:10px 5%;
+    border-radius: 40px;
+    background-color:#E9FAFD;
+}
+
+.deli h2{
+    margin-top: 40px;
+    font-weight: 900;
+    margin-bottom:30px;
+}
+
+.deli p{
+    color: #999999;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.deli{
+    display: flex;
+    justify-content: space-between;
+}
+
+ .sub{
+    display: flex;
+    justify-content: center;
+}   
+#photo{
+    height: 10%;
+}
+
+.sub input{
+    position: relative;
+    padding: 30px 43%;
+    border-radius: 15px;
+    border: none;
+}
+
+ .sub button{
+    position: absolute;
+    padding: 20px 40px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    left: 60%;
+}
+
+   .trop{
+        margin: 5%;
+        gap: 4em;
+        display: flex;
+    }
+.out{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 7%;
+}
+.lorem{
+text-align: start;
+}
+
+
+#lorem {
+margin-right:35%;
+text-align: start;
+}
+
+#lorem img{
+    margin-bottom: 20px;
+}
+
+#lorem p{
+    color: #999999;
+}
+
+.ipsum{
+    margin-top:3%;
+    display: flex;
+    gap: 4em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.flow{
+    margin-left: 40%;
+}

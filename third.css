@@ -1,0 +1,216 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* nav */
+nav ul {
+    display:flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    border-bottom: 2px solid #f2f2f2;
+}
+
+.home{
+    margin-left: 30%;
+}
+
+#facebook{
+    margin-left: 20%;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: blue;
+    border-bottom: 1px solid black;
+}
+
+.full h1{
+margin-top: 5%;
+margin-bottom: 2%;
+text-align: center;
+font-size: 50px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+.flex img{
+    width:4%;
+    border-radius: 100px;
+}
+
+.full{
+    margin-bottom: 2%;
+
+}
+
+.full p{
+    margin-left:1%;
+    border-left: 1px solid black;
+    padding-left: 1%;
+}
+
+.cons{
+    text-align: center;
+}
+
+#flow{
+    width: 90%;
+    margin: 3% 5%;
+}
+
+.how{
+    margin: 0% 8%;
+}
+.how h2{
+    font-weight: 800;
+    margin-bottom: 15px;
+
+}
+
+.how p{
+        color: #999999;
+        margin-bottom:4%;
+
+}
+
+#met{
+    margin-bottom: 90px;
+}
+
+#flob{
+    width:42em ;
+}
+
+.how h3{
+    background: linear-gradient(80deg,lightgray,white);
+    font-size: 2em;
+    line-height: 1.5;
+    padding: 1em;
+    border-top: 2px solid rgb(202, 201, 201);
+    border-bottom: 2px solid rgb(202, 201, 201);
+    margin-bottom: 2em;
+    margin-left:-1.5%;
+    width: 90%;
+}
+
+.third{
+    display: flex;
+    align-items: start;
+    gap: 20em;
+}
+
+.share{
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+    gap:1em;
+}
+
+.share img{
+    width: 15%;
+}
+
+.deli{
+    text-align: center;
+    margin:10px 5%;
+    border-radius: 40px;
+    background-color:#E9FAFD;
+}
+
+.deli h2{
+    margin-top: 40px;
+    font-weight: 900;
+    margin-bottom:30px;
+}
+
+.deli p{
+    color: #999999;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.deli{
+    display: flex;
+    justify-content: space-between;
+}
+
+ .sub{
+    display: flex;
+    justify-content: center;
+}   
+#photo{
+    /* height: 10%; */
+}
+
+.sub input{
+    position: relative;
+    padding: 30px 43%;
+    border-radius: 15px;
+    border: none;
+}
+
+ .sub button{
+    position: absolute;
+    padding: 20px 40px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    left: 60%;
+}
+
+   .trop{
+        margin: 5%;
+        gap: 4em;
+        display: flex;
+    }
+
+    .out{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 7%;
+}
+.lorem{
+text-align: start;
+}
+
+
+#lorem {
+margin-right:35%;
+text-align: start;
+}
+
+#lorem img{
+    margin-bottom: 20px;
+}
+
+#lorem p{
+    color: #999999;
+}
+
+.ipsum{
+    margin-top:3%;
+    display: flex;
+    gap: 4em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.flow{
+    margin-left: 40%;
+}

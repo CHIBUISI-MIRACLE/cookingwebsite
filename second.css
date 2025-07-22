@@ -1,0 +1,202 @@
+ .health{
+        display: flex;
+        justify-content: space-between;
+        margin: 40px 5%;
+    }
+
+    .health h1{
+        font-size: 40px;
+        font-weight: 900;
+        margin-bottom: 20px;
+    }
+
+    .health main{
+        display: flex;
+        gap: 2em;
+    }
+
+    /* main img{
+    border-right: 1px solid black;
+    } */
+
+    .image-a{
+        display: flex;
+        margin: 5%;
+        gap: 4em;
+        border-radius: 20px;
+    }
+
+    .print{
+        display: flex;
+        gap:2em;
+    }
+
+    .nutri{
+        padding: 20px;
+       background-color: #e7fafe;
+        border-radius: 20px;
+        width: 30%;
+    }
+ 
+    .nutri h2{
+        margin-bottom: 20px;
+    }
+
+    .nutri p{
+        margin-bottom: 10px;
+        text-align: start;
+    }
+
+    .nutri span{
+        margin-left: 65%;
+        text-align: end;
+   
+    }
+
+    .nutri h4{
+        margin-top: 75%;
+        text-align: center;
+        color: #999999;
+    }
+
+    .sit{
+        margin: 5%;
+           color: #999999;
+    }
+
+    .ingre{
+        display: flex;
+        gap: 51%;
+        margin:10px 5%;
+        font-size: 25px;
+    }
+
+    .main{
+        margin-top:-3%;
+        margin-left: 5%;
+    }
+
+    .main input{
+       margin-bottom:30px;
+   
+    }
+
+.lor{
+    display:flex;
+    align-items: start;
+    border-bottom: 2px solid rgb(190, 185, 185);
+    padding:1em 0;
+    gap: 20px;
+}
+
+
+    .main h3{
+        font-size: 20px;
+        font-weight: 900;
+        margin-top:25%;
+        margin-bottom:20px;
+    }
+     
+
+ .di div{
+      padding: 6%;
+       background-color: #e7fafe;
+        border-radius: 20px;
+        width: 70%;
+} 
+
+ .nut{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+ .cal{
+    border-bottom: 1px solid rgb(224, 222, 222);
+    padding: 1em 0;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0.5;
+}
+
+ .dolor{
+    margin-top: 8em;
+    opacity: 0.5;
+    text-align: center;
+}
+
+#art aside{
+    margin-top:-2%;
+    width: 40%;
+    margin-left: 40%;
+}
+
+#art{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+#art aside figure{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 1em;
+}
+
+ aside figure img{
+    width: 30%;
+    border-radius: 20px;
+  
+}
+
+.sauce{
+    margin-top: 2.5em;
+}
+
+    .directions h2{
+     font-weight: 900;
+     /* margin-bottom: 15px; */
+     margin-left: 5%;
+    }
+
+    .directions input{
+        margin-left: 5%;
+    }
+
+    .directions label{
+        font-weight: 800;
+    }
+
+    .directions p{
+        margin-left: 5%;
+        margin-bottom:20px;
+        color: #999999;
+    }
+
+    .you{
+       text-align: center;
+       margin-top: 8%;
+       margin-bottom: 4%;
+    }
+
+    .trop{
+        margin: 5%;
+        gap: 4em;
+        display: flex;
+    }
+
+    #amet{
+        margin-left: 5%;
+        width:45%;
+    }
+
+    .dish{
+        margin-top: -10%;
+    }
+
+    .nemo{
+        border-bottom: 1px solid rgb(224, 222, 222);
+         padding: 1em 0
+         
+    }
+
+
